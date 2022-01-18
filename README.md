@@ -13,7 +13,5 @@ public static void main(String[] args)
 
 ## Anyways, thank you for viewing this site and I will update it as much as I can!
 
-Also, Here is my linkedin
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
